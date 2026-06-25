@@ -1,0 +1,256 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar for timezone modal */
+.timezone-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.timezone-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.timezone-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+.timezone-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Starling Font Family */
+@font-face {
+  font-family: 'Starling';
+  src: url('/fonts/starling/Starling-Book.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Starling';
+  src: url('/fonts/starling/Starling-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Neue Haas Grotesk Medium */
+@font-face {
+  font-family: 'NeueHaasGroteskMedium';
+  src: url('/fonts/NeueHaasGroteskMedium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Circular Spotify Text Medium */
+@font-face {
+  font-family: 'CircularSpotifyText-Medium';
+  src: url('/fonts/CircularSpotifyText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Neue Flop Grotesk */
+@font-face {
+  font-family: 'NeueFlopGrotesk';
+  src: url('/fonts/NeueFlopGrotesk.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Neue Haas Grotesk Font Family (kept for easy revert) */
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-55Roman-Trial.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-56Italic-Trial.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-65Medium-Trial.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-66MediumItalic-Trial.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-75Bold-Trial.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/nhg/NeueHaasGrotText-76BoldItalic-Trial.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display';
+  src: url('/fonts/nhg/NeueHaasGrotDispRound-55Roman-Trial.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display';
+  src: url('/fonts/nhg/NeueHaasGrotDispRound-65Medium-Trial.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display';
+  src: url('/fonts/nhg/NeueHaasGrotDispRound-75Bold-Trial.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display';
+  src: url('/fonts/nhg/NeueHaasGrotDispRound-95Black-Trial.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* UN-11 Font Family */
+@font-face {
+  font-family: 'UN-11';
+  src: url('/fonts/UN-11-Trial/UN-11STTrial-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UN-11';
+  src: url('/fonts/UN-11-Trial/UN-11STTrial-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'UN-11';
+  src: url('/fonts/UN-11-Trial/UN-11STTrial-Bold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UN-11';
+  src: url('/fonts/UN-11-Trial/UN-11STTrial-BoldItalic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'UN-11';
+  src: url('/fonts/UN-11-Trial/UN-11STTrial-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Linux Libertine Font Family - Keeping for easy revert */
+@font-face {
+  font-family: 'Linux Libertine';
+  src: url('/fonts/LinLibertine_R.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linux Libertine';
+  src: url('/fonts/LinLibertine_RB.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linux Libertine';
+  src: url('/fonts/LinLibertine_RI.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Linux Libertine Display';
+  src: url('/fonts/LinLibertine_DR.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Radice';
+  src: url('/fonts/Radice-Regular_mkb_20240708.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block; /* Prevents font swap, shows invisible text until loaded */
+}
+
+/* Lumine Hall Font */
+@font-face {
+  font-family: 'Lumine Hall';
+  src: url('/fonts/Lumine-Hall-Regular-NoDots-SuperTight.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Font Variables - Easy to switch back by changing these values */
+:root {
+  /* Current: Neue Haas Grotesk Display Medium */
+  --font-body: 'Neue Haas Grotesk Display', sans-serif;
+  --font-display: 'Neue Haas Grotesk Display', sans-serif;
+  --font-header: 'Neue Haas Grotesk Display', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Neue Haas Grotesk Display', sans-serif;
+  font-weight: 500;
+  background: #000;
+  color: #FFE279;
+}
+
+/* Custom time picker icon color */
+input[type="time"]::-webkit-calendar-picker-indicator {
+  filter: invert(42%) sepia(93%) saturate(2000%) hue-rotate(186deg) brightness(100%) contrast(101%);
+  cursor: pointer;
+}
+
+/* Prevent autofill white background */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+  -webkit-text-fill-color: #FFE279 !important;
+  transition: background-color 5000s ease-in-out 0s;
+}

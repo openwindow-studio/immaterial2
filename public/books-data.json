@@ -1,0 +1,756 @@
+{
+  "common": [
+    {
+      "title": "Aramco Handbook",
+      "isbn": "6",
+      "notes": ""
+    },
+    {
+      "title": "Erik Lindman Recent Paintings",
+      "isbn": "9781940881638",
+      "notes": ""
+    },
+    {
+      "title": "Shannon Ebner: Auto Body Collision",
+      "isbn": "11",
+      "notes": ""
+    },
+    {
+      "title": "The Social Scene",
+      "isbn": "2",
+      "notes": ""
+    },
+    {
+      "title": "hans-peter feldman catalogue katalog",
+      "isbn": "38",
+      "notes": ""
+    },
+    {
+      "title": "Albert Oehlen In der Wohnung",
+      "isbn": "978-3-905929-95-9",
+      "notes": "fn"
+    },
+    {
+      "title": "Kerry James Marshall: Mastry",
+      "isbn": "23.58",
+      "notes": ""
+    },
+    {
+      "title": "Matthew Barney: River of Fundament",
+      "isbn": "200",
+      "notes": ""
+    },
+    {
+      "title": "Louise Lawler Receptions",
+      "isbn": "37",
+      "notes": ""
+    },
+    {
+      "title": "The Collections of Barbara Bloom",
+      "isbn": "39",
+      "notes": ""
+    },
+    {
+      "title": "COLEY BROWN: Jam Jelly Honey Wild Rice PHOTOGRAPHS Karma 2008",
+      "isbn": "80",
+      "notes": ""
+    },
+    {
+      "title": "Barbara Kasten, 1986-1990",
+      "isbn": "36",
+      "notes": ""
+    },
+    {
+      "title": "Bas Jan Ader: Discovery File 143/76",
+      "isbn": "41",
+      "notes": ""
+    },
+    {
+      "title": "Machineworks, Vito Acconci, Alice Aycock, Dennis Oppenheim Paperback – January 1, 1981",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Machineworks, Vito Acconci, Alice Aycock, Dennis Oppenheim Paperback – January 1, 1981",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "R. H. Quaytman: Morning#Chapter 30",
+      "isbn": "13",
+      "notes": ""
+    },
+    {
+      "title": "Chapter 29 Hardcover – January 1, 2015",
+      "isbn": "by R.H. Quaytman (Author)",
+      "notes": ""
+    },
+    {
+      "title": "A Minimal Future? Art As Object 1958-1968 (Arts Magazine, March 1967) by Jonathan Flatley, Diedrich Diederichsen, Carrie Lambert, Luc (2004) Paperback",
+      "isbn": "70",
+      "notes": ""
+    },
+    {
+      "title": "John Baldessari Hardcover – May 15, 1990",
+      "isbn": "by Coosje Van Bruggen",
+      "notes": ""
+    },
+    {
+      "title": "Doug Aitken: Electric Earth",
+      "isbn": "by Philippe Vergne ,",
+      "notes": ""
+    },
+    {
+      "title": "Anna Maria Maiolino",
+      "isbn": "by Helen Molesworth",
+      "notes": ""
+    },
+    {
+      "title": "David Hammons Yves Klein",
+      "isbn": "55",
+      "notes": ""
+    },
+    {
+      "title": "Words Without Pictures Paperback – April 30, 2010",
+      "isbn": "by Alex Klein (Editor), Charlotte Cotton (Contributor), James Welling (Contributor),",
+      "notes": ""
+    },
+    {
+      "title": "[(Will Happiness Find Me? )] [Author: Peter Fischli] [Sep-2003]",
+      "isbn": "50",
+      "notes": ""
+    },
+    {
+      "title": "Frederick Wiseman",
+      "isbn": "by Andrew Delbanco, William T. Vollman, et al. | Dec 15, 2010",
+      "notes": ""
+    },
+    {
+      "title": "William Pope.L",
+      "isbn": "William Pope.L: Showing Up To Withhold",
+      "notes": "60"
+    },
+    {
+      "title": "The Politics of Bacteria, Docile Bodies, Ronde de Nuit Hardcover – September 17, 2017",
+      "isbn": "20",
+      "notes": ""
+    },
+    {
+      "title": "Michael ASher the Renaissance Society",
+      "isbn": "50",
+      "notes": ""
+    },
+    {
+      "title": "Michael ASher the Renaissance Society",
+      "isbn": "50",
+      "notes": ""
+    },
+    {
+      "title": "Gedi Sibony Midway Contemporary art",
+      "isbn": "50",
+      "notes": ""
+    },
+    {
+      "title": "Seth Price: Price, Seth Hardcover – April 30, 2010",
+      "isbn": "50",
+      "notes": ""
+    },
+    {
+      "title": "Wolfgang Tillmans: The Cars Paperback – September 29, 2015",
+      "isbn": "38",
+      "notes": ""
+    },
+    {
+      "title": "Artists' Magazines: An Alternative Space for Art",
+      "isbn": "by Gwen Allen  | Jan 1, 2011",
+      "notes": ""
+    },
+    {
+      "title": "Apartamento Magazine Issue #20 (Autumn/Winter 2017-2018) 10th Anniversary Issue Single Issue Magazine – January 1, 2017",
+      "isbn": "75",
+      "notes": ""
+    },
+    {
+      "title": "Lina Bo Bardi: Habitat Paperback – March 13, 2020",
+      "isbn": "13",
+      "notes": ""
+    },
+    {
+      "title": "The New Urbanism: Toward an Architecture of Community",
+      "isbn": "by Peter Katz  | Oct 22, 1993",
+      "notes": ""
+    },
+    {
+      "title": "Guy De Cointet's Five Sisters",
+      "isbn": "by Edited | Jul 16, 2014",
+      "notes": ""
+    },
+    {
+      "title": "The Language of Post-Modern Architecture, Revised Enlarged Edition",
+      "isbn": "by Charles Jencks and Profusely illustrated | Jan 1, 1977",
+      "notes": ""
+    },
+    {
+      "title": "Dan Graham - Works, and Collected Writings",
+      "isbn": "Dan Graham, Gloria Moure,",
+      "notes": ""
+    },
+    {
+      "title": "Reconstructing Swiss Video Art from the 1970s & 1980s",
+      "isbn": "35",
+      "notes": ""
+    },
+    {
+      "title": "住宅論 (SD選書 49) Japanese Edition",
+      "isbn": "4306050491",
+      "notes": ""
+    },
+    {
+      "title": "New Japanese photography, Paperback – January 1, 1974",
+      "isbn": "by John Szarkowski (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Hirsch Perlman Paperback – January 1, 1988",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Gaetano Pesce : Architecture, Design, Art",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Felix Gonzales-Torres Paperback – January 1, 1993 by Tim Rollins (Author), Jan Avgikos (Author), Susan Cahan (Author), & 1 more",
+      "isbn": "30",
+      "notes": ""
+    },
+    {
+      "title": "Verner Panton: The Collected Works",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "The Tiger's Mind (Sternberg Press) Paperback – January 1, 2013",
+      "isbn": "by Beatrice Gibson (Author)",
+      "notes": ""
+    },
+    {
+      "title": "The Agreement: Five Stories by Hassan Khan (Sternberg Press) (English and Arabic Edition)",
+      "isbn": "Arabic Edition | by Hassan Khan | Jan 1, 2011",
+      "notes": ""
+    },
+    {
+      "title": "Andrea Fraser",
+      "isbn": "by Sabine Breitwieser , Shannon Jackson, et al. | Sep 29, 2015",
+      "notes": ""
+    },
+    {
+      "title": "Phil Chang – Four Over One – FN",
+      "isbn": "30",
+      "notes": ""
+    },
+    {
+      "title": "Is there Any Hope for Advertising",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Designing Type",
+      "isbn": "by Karen Cheng  | Oct 20, 2020",
+      "notes": ""
+    },
+    {
+      "title": "For All the World to See: Visual Culture and the Struggle for Civil Rights Hardcover – April 20, 2010",
+      "isbn": "40",
+      "notes": ""
+    },
+    {
+      "title": "Ginny Casey & Jessi Reaves Hardcover – August 28, 2018",
+      "isbn": "by Ginny Casey (Artist), Jessi Reaves (Artist), Charlotte Ickes (Contributor), & 1 more",
+      "notes": ""
+    },
+    {
+      "title": "Ginny Casey & Jessi Reaves Hardcover – August 28, 2018",
+      "isbn": "by Ginny Casey (Artist), Jessi Reaves (Artist), Charlotte Ickes (Contributor), & 1 more",
+      "notes": ""
+    },
+    {
+      "title": "Glenn Ligon: Unbecoming Paperback – February 2, 1998",
+      "isbn": "by Glenn Ligon (Artist), Thelma Golden (Contributor), Patrick Murphy (Contributor), & 1",
+      "notes": "AN"
+    },
+    {
+      "title": "Glenn Ligon: Unbecoming Paperback – February 2, 1998",
+      "isbn": "by Glenn Ligon (Artist), Thelma Golden (Contributor), Patrick Murphy (Contributor), & 1",
+      "notes": "AN"
+    },
+    {
+      "title": "Form Follows Libido: Architecture And Richard Neutra In A Psychoanalytic Culture Hardcover – January 1, 2005",
+      "isbn": "34",
+      "notes": ""
+    },
+    {
+      "title": "Institutions by Artists C",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Institutions by Artists E",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "First Among Equals (Paperback)",
+      "isbn": "Kate Kraczon",
+      "notes": ""
+    },
+    {
+      "title": "Architecture and allied design: An environmental design perspective Paperback – April 1, 1980",
+      "isbn": "by Anthony C. Antoniades (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Kengo Kuma: My Life as an Architect in Tokyo (My Life as an Architect, 1)",
+      "isbn": "Kengo Kuma: My Life as an Architect in Tokyo (My Life as an Architect, 1)",
+      "notes": "24"
+    },
+    {
+      "title": "Karl Gerstner: Designing Programmes: Programme as Typeface, Typography, Picture, Method Paperback – April 23, 2019",
+      "isbn": "32",
+      "notes": ""
+    },
+    {
+      "title": "The Artist's House: From Workplace to Artwork Paperback – September 7, 2012",
+      "isbn": "37",
+      "notes": ""
+    },
+    {
+      "title": "Erik Lindman Drawings August 2018",
+      "isbn": "4",
+      "notes": ""
+    },
+    {
+      "title": "Cross Cultural Chairs: 8 Chairs from 8 Countries: Diversifying Modern Seating (Set Margins, 24) Paperback – December 5, 2023",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Tom Burr: Low Slung Paperback – January 1, 2000",
+      "isbn": "by Tom Burr (Editor), Karola Grässlin (Editor), Kunstverein Braunschweig (Editor)",
+      "notes": ""
+    },
+    {
+      "title": "Anne Truit Turn",
+      "isbn": "15",
+      "notes": ""
+    },
+    {
+      "title": "Ellen Lupton Thinking with Type",
+      "isbn": "25",
+      "notes": ""
+    },
+    {
+      "title": "Katinka Bock Words  [Gebundene Ausgabe] by Katinka Bock; Hardcover",
+      "isbn": "English Edition  by Katinka Bock (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Katinka Bock - Intenso Paperback – January 1, 2018",
+      "isbn": "by Katinka Bock (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Katinka Bock - Pazifik Paperback – July 16, 2014",
+      "isbn": "by Edited (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Inside the Matrix: The Radical Designs of Ken Isaacs",
+      "isbn": "20",
+      "notes": ""
+    },
+    {
+      "title": "The Apple and the Butterfly Hardcover – March 21, 2013",
+      "isbn": "by Iela Mari (Author), Enzo Mari (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Flexible Visual Systems Paperback – August 15, 2021",
+      "isbn": "by Martin Lorenz (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Introducing Tony Conrad: A Retrospective Paperback – February 19, 2019",
+      "isbn": "28",
+      "notes": ""
+    },
+    {
+      "title": "Lapdogs of the Bourgeoisie: Class Hegemony in Contemporary Art",
+      "isbn": "by Nav Haq and Tirdad Zolghadr | Oct 15, 2010",
+      "notes": ""
+    },
+    {
+      "title": "Postcolonial Space(s) Paperback – December 1, 1997",
+      "isbn": "by G.B. Nalbantoglu (Editor), C.T. Wong (Editor)",
+      "notes": ""
+    },
+    {
+      "title": "Alvar Aalto: His Life Hardcover – August 1, 2007",
+      "isbn": "by Goran Schildt (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Maria Eichhorn / John Miller (Between Artists) Paperback – January 1, 2008",
+      "isbn": "20",
+      "notes": ""
+    },
+    {
+      "title": "William Pope.L: Black People Are Cropped: Skin Set Drawings 1997–2011 Paperback – August 31, 2012",
+      "isbn": "15",
+      "notes": ""
+    },
+    {
+      "title": "Akram Zaatari: A Conversation with an Imagined Israeli Filmmaker Named Avi Mograbi",
+      "isbn": "20",
+      "notes": ""
+    },
+    {
+      "title": "Numerous Avalanches at The Point of Intersection Paperback – January 1, 1979",
+      "isbn": "44",
+      "notes": ""
+    },
+    {
+      "title": "Other Than Itself: Writing Photography Paperback – December 31, 1989",
+      "isbn": "12",
+      "notes": ""
+    },
+    {
+      "title": "Notes on the Synthesis of Form (Harvard Paperbacks)",
+      "isbn": "Alexander, Christopher",
+      "notes": ""
+    },
+    {
+      "title": "Samuel Beckett No's Knife",
+      "isbn": "30",
+      "notes": ""
+    },
+    {
+      "title": "e-flux journal: The Wretched of the Screen (Sternberg Press / e-flux journal) Paperback – April 5, 2013",
+      "isbn": "43",
+      "notes": ""
+    },
+    {
+      "title": "New York Studio Conversations - Seventeen Women Talk About Art Paperback – April 15, 2016",
+      "isbn": "by Stephanie Buhmann (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Ettore Sottsass and the Poetry of Things",
+      "isbn": "27",
+      "notes": ""
+    },
+    {
+      "title": "Pin Up Interviews",
+      "isbn": "29",
+      "notes": ""
+    },
+    {
+      "title": "L A Deco Paperback – November 15, 1991",
+      "isbn": "15",
+      "notes": ""
+    },
+    {
+      "title": "Conversations with Artists Paperback – October 24, 2017",
+      "isbn": "by Heidi Zuckerman (Contributor)",
+      "notes": ""
+    },
+    {
+      "title": "Glenn Ligon: Some Changes Paperback – July 31, 2009",
+      "isbn": "29",
+      "notes": ""
+    },
+    {
+      "title": "The Artist as an Instigator of Changes in Social Cognition and Behaviour Paperback – January 1, 2010",
+      "isbn": "45",
+      "notes": ""
+    },
+    {
+      "title": "Public Collectors",
+      "isbn": "Public Collectors",
+      "notes": "25"
+    },
+    {
+      "title": "Seth Price: 2000 Words",
+      "isbn": "by Karen Marta, Massimiliano Gioni, et al. | Sep 30, 2014",
+      "notes": ""
+    },
+    {
+      "title": "International Trucks (Crestline Series) Hardcover – January 1, 1995",
+      "isbn": "by Frederick W. Crismon (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Dieter Rams: Ten Principles for Good Design",
+      "isbn": "Dieter Rams: Ten Principles for Good Design",
+      "notes": "45"
+    },
+    {
+      "title": "Daydream Houses of Los Angeles Paperback – January 1, 1978",
+      "isbn": "25",
+      "notes": ""
+    }
+  ],
+  "rare": [
+    {
+      "title": "Alvar Aalto: A Life's Work: Architecture, Design and Art Hardcover – January 1, 1994",
+      "isbn": "175",
+      "notes": ""
+    },
+    {
+      "title": "Alvar Aalto: A Life's Work: Architecture, Design and Art Hardcover – January 1, 1994",
+      "isbn": "175",
+      "notes": ""
+    },
+    {
+      "title": "AMANDA ROSS-HO: OBJECTS Paperback – January 1, 2014",
+      "isbn": "by AMANDA). Frydenborg Erik (ROSS-HO (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Andre Buren Irwin Nordman: Space as Support",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "Andrea Fraser, Works: 1984 to 2003",
+      "isbn": "84",
+      "notes": ""
+    },
+    {
+      "title": "Anne Tyng: Inhabiting Geometry Paperback – June 30, 2012",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "Archeology of the Digital, Greg Lynn - sealed",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "Barbara Kasten: The Diazotypes",
+      "isbn": "160",
+      "notes": ""
+    },
+    {
+      "title": "Bless: Celebrating 10 Years of Themelessness: N00 - N29 Paperback – January 1, 2006",
+      "isbn": "by Bless (Author), Desiree Heiss (Editor), Ines Kaag (Editor), Manuel Raeder (Editor)",
+      "notes": "1 copy online $600, 1 is 4k"
+    },
+    {
+      "title": "BLESS: Retrospective Home N 30-N 41",
+      "isbn": "BLESS; Desiree Heiss; Ines Kang",
+      "notes": "ISBN 10: 1934105120 / ISBN 13: 9781934105122"
+    },
+    {
+      "title": "Books and Ideas After Seth Siegelaub",
+      "isbn": "Michalis Pichler",
+      "notes": "Published by Sternberg Press, 2017"
+    },
+    {
+      "title": "Books and Ideas After Seth Siegelaub",
+      "isbn": "Michalis Pichler",
+      "notes": "Published by Sternberg Press, 2017"
+    },
+    {
+      "title": "Broodthaers: Writings, Interviews, Photographs Paperback – January 1, 1987",
+      "isbn": "by Benjamin H. D. (editor) Buchloh (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Bruce Davidson Los Angeles 1964 – poor, stains on cover",
+      "isbn": "150",
+      "notes": ""
+    },
+    {
+      "title": "Christopher Williams Supplements Models Prototypes",
+      "isbn": "9780997499575",
+      "notes": ""
+    },
+    {
+      "title": "Christopher Williams, Program, for Example: Dix-huit Lecons Sur La Societe Industrielle (German and English Edition) Paperback – January 1, 2006",
+      "isbn": "300",
+      "notes": ""
+    },
+    {
+      "title": "De ou par marcel duchamp – sealed",
+      "isbn": "92",
+      "notes": ""
+    },
+    {
+      "title": "Deanna Templeton Blue Kitten Photos – FN (This is not BKP #1, it precedes it, is likely self published)",
+      "isbn": "1000",
+      "notes": ""
+    },
+    {
+      "title": "Deanna Templeton Your Logo Here – FN",
+      "isbn": "150",
+      "notes": ""
+    },
+    {
+      "title": "Dexter sinister - portable document format by Dexter sinister (1-Dec-2009) Hardcover Hardcover",
+      "isbn": "150",
+      "notes": ""
+    },
+    {
+      "title": "Drawing Room Confessions #2: Jason Dodge Paperback – January 1, 2011",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "Everything Loose Will Land: 1970s Art and Architecture in Los Angeles",
+      "isbn": "Alex Kitnick, et al",
+      "notes": "ISBN 10: 3869844523 / ISBN 13: 9783869844527"
+    },
+    {
+      "title": "Exhibition Prosthetics Paperback",
+      "isbn": "by Joseph Grigely (Author)  First Edition",
+      "notes": "Sealed"
+    },
+    {
+      "title": "Exhibition Prosthetics Paperback",
+      "isbn": "by Joseph Grigely (Author)  First Edition",
+      "notes": ""
+    },
+    {
+      "title": "Experimental Jetset - Statement And Counter-statement Paperback – January 9, 2015",
+      "isbn": "TBD",
+      "notes": ""
+    },
+    {
+      "title": "Experimental Jetset - Statement And Counter-statement Paperback – January 9, 2015",
+      "isbn": "TBD",
+      "notes": ""
+    },
+    {
+      "title": "Faces and Phases: Zanele Muholi Hardcover – August 31, 2010",
+      "isbn": "by Zanele Muholi (Author, Photographer)",
+      "notes": "AN"
+    },
+    {
+      "title": "Frances Stark Collected Writing – sealed",
+      "isbn": "90",
+      "notes": ""
+    },
+    {
+      "title": "Glenn Obrien Like Art – FN",
+      "isbn": "199",
+      "notes": ""
+    },
+    {
+      "title": "guadalupe rosales map pointz little big man press",
+      "isbn": "400",
+      "notes": ""
+    },
+    {
+      "title": "Hannah Black. Dark Pool Party Paperback – January 1, 2016",
+      "isbn": "650",
+      "notes": ""
+    },
+    {
+      "title": "How to Disappear in America",
+      "isbn": "by Seth Price  | Jan 1, 2008",
+      "notes": ""
+    },
+    {
+      "title": "Improbable Furniture Paperback",
+      "isbn": "by University of Pennsylvania Institute of Contemporary Art (Author)",
+      "notes": ""
+    },
+    {
+      "title": "In relation to probable use: The presentation of works of Lawrence Weiner at the Renaissance Society at the University of Chicago, January 29 through March 4, 1978",
+      "isbn": "44",
+      "notes": ""
+    },
+    {
+      "title": "Isamu Noguchi: Sculptural Design Hardcover – October 1, 2002",
+      "isbn": "200",
+      "notes": ""
+    },
+    {
+      "title": "Isamu Noguchi: Sculptural Design Hardcover – October 1, 2002",
+      "isbn": "150",
+      "notes": ""
+    },
+    {
+      "title": "Italy: The New Domestic Landscape, Achievements and Problems of Italian Design",
+      "isbn": "Ambasz, Emilio (Editor)",
+      "notes": "ISBN 10: 0870703943 / ISBN 13: 9780870703942"
+    },
+    {
+      "title": "Jean Prouvé: The Poetics of the Technical Object Hardcover – July 31, 2013",
+      "isbn": "by Alexander Von Vegesack (Editor), Cathrine Dumont D'Ayot (Editor), & 3 more",
+      "notes": "Sealed"
+    },
+    {
+      "title": "Jean Prouvé: Three nomadic structures (Catalogue / Columbia Books of Architecture) Paperback – January 1, 2002",
+      "isbn": "95",
+      "notes": ""
+    },
+    {
+      "title": "Jeremy Deller Folk Archive – G",
+      "isbn": "85",
+      "notes": ""
+    },
+    {
+      "title": "Jimmie Durham – Entre el Mueble y el imueble (entre una roca y un lugar solido) Alias books",
+      "isbn": "TBD",
+      "notes": ""
+    },
+    {
+      "title": "John Weber Gallery Hans Haacke Business: As Usual",
+      "isbn": "TBD",
+      "notes": ""
+    },
+    {
+      "title": "Josef Müller-Brockmann: Design Manual for the Swiss Federal Railways (Fahrgastinformationssystem / Passenger Information System)",
+      "isbn": "235",
+      "notes": ""
+    },
+    {
+      "title": "Jungjin Lee: Wind Hardcover – December 31, 2009",
+      "isbn": "by Vicki Goldberg (Author), Eugenia Parry (Author), Jungjin Lee (Photographer)",
+      "notes": ""
+    },
+    {
+      "title": "Karl Holmqvist Cat People",
+      "isbn": "60",
+      "notes": ""
+    },
+    {
+      "title": "Kate Steicw The Strangeness of This Idea Paperback – January 1, 2010",
+      "isbn": "190",
+      "notes": ""
+    },
+    {
+      "title": "Kengo Kuma Anti-Object",
+      "isbn": "100",
+      "notes": ""
+    },
+    {
+      "title": "Lamb / Cordero Paperback – January 1, 1989",
+      "isbn": "by Meg Cranston John Baldessari (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Langweilige Postkarten by Martin Parr (2001-01-05) Hardcover",
+      "isbn": "by Martin Parr (Author)",
+      "notes": ""
+    },
+    {
+      "title": "Lorraine O'Grady, Alexander Gray and Associates, 2015",
+      "isbn": "TBD",
+      "notes": ""
+    }
+  ]
+}

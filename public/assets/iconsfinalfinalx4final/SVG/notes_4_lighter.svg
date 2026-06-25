@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.7 102.24">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-width: 1.6;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fee27a;
+      }
+
+      .cls-2 {
+        stroke-width: 1.6;
+      }
+
+      .cls-3 {
+        fill: #fee27a;
+        stroke-miterlimit: 4;
+        stroke-width: 1.6px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-2" d="M111.16.54c1.39-.94-34.23,14.81-58.76,12.75"/>
+    <line class="cls-2" x1="111.2" y1=".73" x2="111.2" y2="101.62"/>
+    <line class="cls-2" x1="55.85" y1="13.59" x2="55.85" y2="88.76"/>
+    <path class="cls-2" d="M111.16,101.58c1.39.94-34.23-14.81-58.76-12.75"/>
+    <path class="cls-2" d="M.54,101.7c-1.39.94,34.23-14.81,58.76-12.75"/>
+    <line class="cls-2" x1=".5" y1="101.51" x2=".5" y2=".61"/>
+    <path class="cls-2" d="M.54.66c-1.39-.94,34.23,14.81,58.76,12.75"/>
+    <g>
+      <line class="cls-1" x1="21.94" y1="69.23" x2="21.94" y2="36.56"/>
+      <line class="cls-1" x1="43.65" y1="59.09" x2="43.65" y2="26.42"/>
+      <path class="cls-1" d="M21.94,36.56l21.78-10.93"/>
+      <ellipse class="cls-3" cx="37.08" cy="60.78" rx="6.67" ry="4.47" transform="translate(-20.42 20.61) rotate(-20)"/>
+      <ellipse class="cls-3" cx="15.32" cy="70.93" rx="6.67" ry="4.47" transform="translate(-25.18 13.8) rotate(-20)"/>
+    </g>
+    <g>
+      <ellipse class="cls-3" cx="93.35" cy="68.88" rx="6.67" ry="4.47" transform="translate(-20.04 40.48) rotate(-20)"/>
+      <ellipse class="cls-3" cx="71.59" cy="60.04" rx="6.67" ry="4.47" transform="translate(-18.36 32.48) rotate(-20)"/>
+      <line class="cls-2" x1="78.05" y1="58.17" x2="78.05" y2="25.51"/>
+      <line class="cls-2" x1="99.95" y1="67.39" x2="99.95" y2="34.73"/>
+      <path class="cls-1" d="M78.05,25.51l21.78,9.11"/>
+    </g>
+  </g>
+</svg>
